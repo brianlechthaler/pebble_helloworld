@@ -6,19 +6,15 @@
         ""
     ],
     "companyName": "Three20Six",
-    "longName": "helloworld",
+    "longName": "Pebble Hello World",
     "projectType": "native",
     "resources": {
         "media": []
     },
-    "sdkVersion": "3",
+    "sdkVersion": "2",
     "shortName": "hllwrld",
-    "targetPlatforms": [
-        "aplite",
-        "basalt",
-        "chalk"
-    ],
     "uuid": "e70ea4f4-ece7-42f2-a0ad-f092c051e4fe",
+    "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
         "watchface": true

@@ -2,6 +2,14 @@
 
 static Window *s_main_window;
 
+static void main_window_load(Window *window) {
+
+}
+
+static void main_window_unload(Window *window) {
+
+}
+
 static void init() {
  s_main_window = window_create();
 
@@ -23,10 +31,4 @@ int main(void) {
   deinit();
 }
 
-static void main_window_load(Window *window) {
 
-}
-
-static void main_window_unload(Window *window) {
-
-}
