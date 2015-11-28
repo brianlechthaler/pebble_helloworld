@@ -1,18 +1,26 @@
 {
-  "uuid": "e70ea4f4-ece7-42f2-a0ad-f092c051e4fe",
-  "shortName": "hllwrld",
-  "longName": "helloworld",
-  "companyName": "Three20Six",
-  "versionLabel": "1.0",
-  "sdkVersion": "3",
-  "targetPlatforms": ["aplite", "basalt", "chalk"],
-  "watchapp": {
-    "watchface": true
-  },
-  "appKeys": {
-    "dummy": 0
-  },
-  "resources": {
-    "media": []
-  }
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Three20Six",
+    "longName": "helloworld",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "hllwrld",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "e70ea4f4-ece7-42f2-a0ad-f092c051e4fe",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
 }
