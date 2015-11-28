@@ -1,22 +1,27 @@
 {
-    "appKeys": {
-        "dummy": 0
-    },
-    "capabilities": [
-        ""
-    ],
-    "companyName": "Three20Six",
-    "longName": "Pebble Hello World",
-    "projectType": "native",
-    "resources": {
-        "media": []
-    },
-    "sdkVersion": "2",
-    "shortName": "hllwrld",
-    "uuid": "e70ea4f4-ece7-42f2-a0ad-f092c051e4fe",
-    "versionCode": 1,
-    "versionLabel": "1.0",
-    "watchapp": {
-        "watchface": true
-    }
+  "appKeys": {
+    "dummy": 0
+  },
+  "capabilities": [
+    ""
+  ],
+  "companyName": "Three20Six",
+  "longName": "Pebble Hello World",
+  "projectType": "native",
+  "resources": {
+    "media": []
+  },
+  "sdkVersion": "3",
+  "shortName": "hllwrld",
+  "uuid": "e70ea4f4-ece7-42f2-a0ad-f092c051e4fe",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "targetPlatforms": [
+    "aplite",
+    "basalt",
+    "chalk"
+  ]
 }
